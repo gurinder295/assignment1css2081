@@ -1,4 +1,4 @@
-# Quiet Palace
+## Quiet Palace
 
 Quiet Palace is a fictional bookstore website is Grid-Based Layout assignment.
 
